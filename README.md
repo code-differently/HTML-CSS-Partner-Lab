@@ -18,7 +18,7 @@ You will pair program with a partner to complete this assignemnt. One partner, t
 
 
 ### Mock Up
-![](mockup.png)
+![](mockupPartOne.png)
 
 ## Part Two
 
@@ -32,7 +32,7 @@ You will pair program with a partner to complete this assignemnt. One partner, t
 
 
 ### Mock Up
-![](form-final.png)
+![](mockupPartTwo.png)
 
 ## Part 3
 
@@ -46,7 +46,8 @@ You will pair program with a partner to complete this assignemnt. One partner, t
 
 
 ### Mock Up
-![](mockup.png)
+![](mockupPartThree.png)
 
 ## Submission
 Create a pull request from your team's repor to the class repo
+x
