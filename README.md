@@ -50,4 +50,3 @@ You will pair program with a partner to complete this assignemnt. One partner, t
 
 ## Submission
 Create a pull request from your team's repor to the class repo
-x
